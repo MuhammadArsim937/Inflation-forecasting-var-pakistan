@@ -9,8 +9,7 @@ Data: monthly, September 2018 to September 2023 (61 observations).
 Software: EViews.
 
 ## Files
-- Arsim_Inflation_VAR_Research.pdf : presentation (view in browser)
-- Arsim_Inflation_VAR_Research.pptx : editable slides
+- Inflation_trend_in_pak_using_VAR_Research.pdf : presentation (view in browser)
 
 ## Methods
 Unit root (ADF), Granger causality, VAR lag selection, VAR estimation,
